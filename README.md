@@ -1,7 +1,7 @@
 # Traffic-Advisory-System
 /**
  * @copyright
- * Project: Data Structure Course Design Project 3
+ * Project: Data Structure Course Design Project 3, Traffic-Advisory-System
  * Course: Data Structure (2024)
  * Institution: School of Computer Science, China University of Geosciences (Wuhan)
  * Major: Software Engineering
@@ -12,7 +12,7 @@
  * distributed, or modified without explicit permission from the author and the institution.
  *
  * @版权声明
- * 项目名称：数据结构课程设计项目3
+ * 项目名称：数据结构课程设计项目3，交通资讯系统
  * 课程名称：数据结构（2024年）
  * 所属学院：中国地质大学（武汉）计算机学院
  * 专业：软件工程
